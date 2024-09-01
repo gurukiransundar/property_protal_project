@@ -146,10 +146,10 @@ const CitiesBangalore = () => {
                     className="object-cover w-full h-[60%] "
                   />
                   <h3 className="text-center">
-                    Commercial
+                    Commercials
                     <br />
                     Properties
-                  </h3>
+                  </h3> 
                   <p className="text-center text-xs font-light">
                     1000+ properties
                   </p>
